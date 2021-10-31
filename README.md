@@ -7,6 +7,7 @@ We can't have a centralized company as the biggest in the cryptocurrency market,
 Do you want to create a private government in the cryptocurrency market? I don't want too, I am doing what I can and fuck it 
 
 price: 0.1 bnb
+
 telegram group: https://t.me/BSCHoneyPotOffical
 
 BSC contract: 0x9E3a427F502bD74759cDa5629852863Bc986FE3A
