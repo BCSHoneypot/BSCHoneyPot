@@ -8,8 +8,10 @@ Do you want to create a private government in the cryptocurrency market? I don't
 
 price: 0.1 bnb
 telegram group: https://t.me/BSCHoneyPotOffical
+
 BSC contract: 0x9E3a427F502bD74759cDa5629852863Bc986FE3A
-how to buy?
+
+How to buy?
 1- Join the telegram group, have a detailed conversation, send the name of the token and its abbreviation.
 2- Send 0.1 BNB to the designated BSC contract
 
